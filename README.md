@@ -81,3 +81,10 @@ MEP عند الحاجة وسجل تشخيص على سطح المكتب. يوضح
 
 [MIT](LICENSE) for original instructions/code. Manufacturer documents and
 Autodesk products retain their own licenses.
+
+## Privacy, terms, and support
+
+Published by Mostafa Magdy. Read the [privacy policy](PRIVACY.md) and
+[terms of use](TERMS.md). For help, use the
+[public issue tracker](https://github.com/moustafamagdi/revit-family-dll-skill/issues).
+Please remove private documents, credentials, and identifying paths before posting.
