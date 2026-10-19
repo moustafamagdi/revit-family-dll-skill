@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revit Family DLL Builder"
+  short_description: "Build parametric Revit families through generator DLLs"
+  default_prompt: "Use $revit-family-dll to create a compiled Revit family generator DLL from my manufacturer documents, with diagnostic logging and runtime validation."

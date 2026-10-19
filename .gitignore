@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/delivery/
+**/build-output/
+*.dll
+*.pdb
+*.rfa
+*.rft
+*.rvt
+*.log
+*.zip
+.vs/
+.DS_Store
