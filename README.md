@@ -7,6 +7,10 @@ It turns manufacturer PDFs, submittals, CAD, or reference RFAs into source-based
 generators: catalogue types, native geometry, materials, real MEP connectors when
 applicable, Desktop logs, runtime flex checks, and save/reopen validation.
 
+## Download the plugin package
+
+The [v1.0.1 GitHub release](https://github.com/moustafamagdi/revit-family-dll-skill/releases/tag/v1.0.1) includes the [complete plugin ZIP](https://github.com/moustafamagdi/revit-family-dll-skill/releases/download/v1.0.1/revit-family-dll-plugin-1.0.1.zip), a SHA-256 checksum, and usage instructions. The ZIP is for clients supporting portable Agent Plugins packages. For Codex, installing the skill from this repository as described below provides the same workflow and supporting files.
+
 ## Install in Codex
 
 Ask Codex's skill installer:
